@@ -19,14 +19,14 @@
             <TextBox Background="LightGray" FontSize="20" FontWeight="Bold" Name="TbInputNumber" Height="35" BorderBrush="Aquamarine" 
                      Text="{Binding Number, UpdateSourceTrigger=PropertyChanged}"/>
         </StackPanel>
-        <DockPanel Grid.Column="1" Background="DimGray">
-            <Label Name="lbThreadFactorial" Content="Factorial on Threads" FontSize="20" FontStyle="Italic" FontWeight="ExtraBold" DockPanel.Dock="Top" 
+        <StackPanel Grid.Column="1" Background="DimGray">
+            <Label Name="lbThreadFactorial" Content="Factorial" FontSize="20" FontStyle="Italic" FontWeight="ExtraBold" Width="auto"
+                   HorizontalAlignment="Center"  BorderBrush="Aquamarine"/>
+            <TextBlock Width="auto" FontSize="20" FontWeight="Bold" Background="LightGray" Grid.Column="1"
+                       Text="{Binding Factorial, UpdateSourceTrigger=PropertyChanged}"></TextBlock>
+            <Label Name="lbThreadSumNum" Content="Sum" FontSize="20" FontStyle="Italic" FontWeight="ExtraBold" Width="auto"
                    HorizontalAlignment="Center" BorderBrush="Aquamarine"/>
-            <TextBlock Width="auto" FontSize="20" FontWeight="Bold" Background="LightGray" Grid.Column="1" Height="147" 
-                       DockPanel.Dock="Top" Text="{Binding Factorial, UpdateSourceTrigger=PropertyChanged}"></TextBlock>
-            <Label Name="lbThreadSumNum" Content="Sum on Threads" FontSize="20" FontStyle="Italic" FontWeight="ExtraBold" DockPanel.Dock="Top"
-                   HorizontalAlignment="Center" BorderBrush="Aquamarine"/>
-            <TextBlock Grid.Column="1" FontSize="20" FontWeight="Bold" Background="LightGray" Height="auto" Width="auto" Text="{Binding Sum}" ></TextBlock>
-        </DockPanel>
+            <TextBlock Grid.Column="1" FontSize="20" FontWeight="Bold" Background="LightGray" Text="{Binding Sum}" />
+        </StackPanel>
     </Grid>
 </Window>
