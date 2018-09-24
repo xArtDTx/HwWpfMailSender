@@ -1,0 +1,15 @@
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\bin\Debug\ParallelProgram.exe.config
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\bin\Debug\ParallelProgram.exe
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\bin\Debug\ParallelProgram.pdb
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram.csprojAssemblyReference.cache
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\MainWindow.g.cs
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\App.g.cs
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram_MarkupCompile.cache
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram_MarkupCompile.lref
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\MainWindow.baml
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram.g.resources
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram.Properties.Resources.resources
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram.csproj.GenerateResource.cache
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram.csproj.CoreCompileInputs.cache
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram.exe
+C:\Users\artge\source\repos\HwWpfMailSender\ParallelProgram\obj\Debug\ParallelProgram.pdb

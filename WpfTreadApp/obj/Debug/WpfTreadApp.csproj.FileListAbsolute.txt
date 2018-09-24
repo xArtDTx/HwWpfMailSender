@@ -1,0 +1,16 @@
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\bin\Debug\WpfTreadApp.exe.config
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\bin\Debug\WpfTreadApp.exe
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\bin\Debug\WpfTreadApp.pdb
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\MainWindow.baml
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\MainWindow.g.cs
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\App.g.cs
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp_MarkupCompile.cache
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp.g.resources
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp.Properties.Resources.resources
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp.csproj.GenerateResource.cache
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp.csproj.CoreCompileInputs.cache
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp.exe
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp.pdb
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp_MarkupCompile.lref
+C:\Users\artge\source\repos\HwWpfMailSender\WpfTreadApp\obj\Debug\WpfTreadApp.csprojAssemblyReference.cache

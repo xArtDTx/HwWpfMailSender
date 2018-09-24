@@ -1,0 +1,12 @@
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\bin\Debug\TabSwitcher.dll
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\bin\Debug\TabSwitcher.pdb
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcerControl.g.cs
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.cache
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher_MarkupCompile.lref
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcerControl.baml
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher.g.resources
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher.Properties.Resources.resources
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.GenerateResource.cache
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher.dll
+C:\Users\artge\source\repos\HwWpfMailSender\TabSwitcher\obj\Debug\TabSwitcher.pdb
