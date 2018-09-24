@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HwMailSender", "MailSender\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabSwitcher", "TabSwitcher\TabSwitcher.csproj", "{FF2EA61A-E93F-4A1F-AC5F-11F5F387AF08}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfHwApp", "EfHwApp\EfHwApp.csproj", "{0E68E50B-702C-4979-BE0C-484B9275F9B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FF2EA61A-E93F-4A1F-AC5F-11F5F387AF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF2EA61A-E93F-4A1F-AC5F-11F5F387AF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF2EA61A-E93F-4A1F-AC5F-11F5F387AF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E68E50B-702C-4979-BE0C-484B9275F9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E68E50B-702C-4979-BE0C-484B9275F9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E68E50B-702C-4979-BE0C-484B9275F9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E68E50B-702C-4979-BE0C-484B9275F9B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

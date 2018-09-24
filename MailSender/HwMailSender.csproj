@@ -66,8 +66,7 @@
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
-    <Reference Include="TabSwitcher, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="TabSwitcher">
       <HintPath>..\TabSwitcher\bin\Debug\TabSwitcher.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />

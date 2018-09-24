@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         xmlns:local="clr-namespace:MailSender"
-        xmlns:TabSwitcher="clr-namespace:TabSwitcher;assembly=TabSwitcher"
+        xmlns:tabSwitcher="clr-namespace:TabSwitcher;assembly=TabSwitcher"
         mc:Ignorable="d"
         Title="WpfMailSender" Height="450" Width="800">
     <DockPanel>
@@ -14,7 +14,7 @@
                 <MenuItem Header="Exit"/>
             </MenuItem>
         </Menu>
-        <TabSwitcher:TabSwitcherControl DockPanel.Dock="Top" Back="TabSwitcherControl_OnBack" Forward="TabSwitcherControl_OnForward"/>
+        <!--<tabSwitcher:TabSwitcherControl DockPanel.Dock="Top" Back="TabSwitcherControl_OnBack" Forward="TabSwitcherControl_OnForward"/>-->
         <TabControl VerticalAlignment="Top" Name="MainTabControl">
             <TabItem Header="Dispatch" FontSize="18" FontWeight="Bold" Foreground="Black">
                 <DockPanel>
@@ -88,9 +88,8 @@
                         <ColumnDefinition/>
                     </Grid.ColumnDefinitions>
                     <StackPanel Grid.Column="0" Margin="3">
-                        
                         <Calendar SelectionMode="MultipleRange" FontWeight="Bold"/>
-                        <xctk:TimePicker/>
+                        <!--<xctk:TimePicker />-->
                         <Button Margin="0,3" >
                             <StackPanel Orientation="Horizontal">
                                 <Image Height="17" Source="Images/clock.png"/>
